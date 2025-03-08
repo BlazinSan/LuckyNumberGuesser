@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715669157 source:c:\users\hason\downloads\assignment 6 - lucky number guessing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
